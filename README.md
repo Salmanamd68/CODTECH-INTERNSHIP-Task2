@@ -15,9 +15,13 @@ for any weather-related challenges.
 
 # Key Activities 
 1.Real-Time Weather Updates: Providing current weather conditions, including temperature, humidity, wind speed, and precipitation.
+
 2.Daily and Hourly Forecasts: Offering short-term and long-term weather predictions to help users plan their activities.
+
 3.Severe Weather Alerts: Sending notifications for extreme weather events like storms, floods, or heatwaves to ensure user safety.
+
 4.Radar and Satellite Maps: Displaying visual data on weather patterns, including radar maps for tracking rain and snow.
+
 5.Customizable Notifications: Allowing users to set personalized alerts for specific weather conditions or locations.
 
 # Technology used
